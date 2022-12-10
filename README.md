@@ -8,7 +8,7 @@ Dicha aplicación tiene como objetivo principal mostrar la lista de 150 pokemone
 
 En cuanto al código fuente del software presentado esta organizado por paginas con sus respectivos componentes.
 
-![pokemon]('http://i66.tinypic.com/33dhywz.png](https://assets.pokemon.com/static2/_ui/img/og-default-image.jpeg)
+![interface_usuario](http://i66.tinypic.com/33dhywz.png](https://assets.pokemon.com/static2/_ui/img/og-default-image.jpeg)
 
 -----------
 
