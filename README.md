@@ -1,28 +1,31 @@
-# PokiAngular
+# Poki-Api
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.10.
 
-## Development server
+El proyecto consiste en una pokedex desde poki-api.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Dicha aplicación tiene como objetivo principal mostrar la lista de 150 pokemones de la promera generación, con la opcion de un buscador tambien cuenta con detalles de estadisticas y demas caracteristicas de los pokemones.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+En cuanto al código fuente del software presentado esta organizado por paginas con sus respectivos componentes.
 
-## Build
+![pokemon]([http://i66.tinypic.com/33dhywz.png](https://assets.pokemon.com/static2/_ui/img/og-default-image.jpeg))
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+-----------
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Alcance:
 
-## Running end-to-end tests
+Permitirle a cualquier persona  conocer mas sobre el mundo de los pokemones. 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# pokiAngular
+
+### Requerimientos:
+
+Para la implementación del proyecto Angular es necesario instalae NodeJS, para poder instalarla podemos dirigirnos a la página de https://nodejs.org y descargando el instalador para nuestro sistema
+
+
+
+
+
+
